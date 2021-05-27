@@ -1,0 +1,17 @@
+{
+  "host": "localhost",
+  "username": "username",
+  "password": "password",
+  "database": "antisocial",
+
+  "logfile": "/var/log/antisocial/log.txt",
+  "site_base": "http://localhost:3000/",
+  "image_base_url": "http://localhost/antisocial_img",
+  "image_dir": "/home/simon/public_html/antisocial_img",
+
+  "notification_addr": "admin@antisocial",
+  "smtp": "mail.isp.net.au",
+  "smtp.port": 587,
+  "smtp.username": "",
+  "smtp.password": "",
+}
